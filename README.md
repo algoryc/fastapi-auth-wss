@@ -42,10 +42,10 @@ Swagger UI provides a user-friendly interface to test the APIs of the Chat Syste
 
 3. Open Multiple Instances of PieSocket: Open two different tabs in your web browser and paste the following WebSocket URLs:
 
-    - `ws://192.168.18.41:8000/ws/channel_name/jwt_token1`
-    - `ws://192.168.18.41:8000/ws/channel_name/jwt_token2`
+    - `ws://ip_address:8000/ws/channel_name/jwt_token1`
+    - `ws://ip_address:8000/ws/channel_name/jwt_token2`
 
-    Replace `channel_name` with the desired channel name and `jwt_token1` and `jwt_token2` with the tokens obtained in step 2.
+    Replace `ip_address` with your localhost IP, `channel_name` with the desired channel name and `jwt_token1` and `jwt_token2` with the tokens obtained in step 2.
 
 4. Start Chatting: Once the WebSocket connections are established, you can start chatting between the two instances of PieSocket.
 
