@@ -1,0 +1,10 @@
+fastapi
+python-multipart
+sqlalchemy
+passlib
+bcrypt
+pyjwt
+python-multipart
+aioredis
+python-jose[cryptography]
+python-multipart
