@@ -38,7 +38,7 @@ Swagger UI provides a user-friendly interface to test the APIs of the Chat Syste
 
 1. Register Yourself: To register as a user, navigate to the `/register` endpoint and provide the required information.
 
-2. Obtain Token: After registering, go to the token route to obtain a token. This token will be used for authentication.
+2. Obtain Token: After registering, go to the `/token` route to obtain a token. This token will be used for authentication.
 
 3. Open Multiple Instances of PieSocket: Open two different tabs in your web browser and paste the following WebSocket URLs:
 
